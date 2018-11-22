@@ -8,4 +8,3 @@ function [lamda] = PeakWavelength(T)
 b = 2.8977721E-3;  % Î¬¶÷Î»ÒÆ³£Êý, m.K
 lamda = b * 1E9 / T;
 end
-
